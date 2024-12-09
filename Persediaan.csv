@@ -1,0 +1,21 @@
+ID Produk,Nama Produk,Jumlah Persediaan,Lokasi Gudang,Status Stok
+P001,Software ERP,515,Gudang 2,Aman
+P002,Mesin Pemotong,530,Gudang 3,Aman
+P003,Konsultasi Bisnis,545,Gudang 1,Perlu Restock
+P004,Alat Pertanian,560,Gudang 2,Aman
+P005,Panel Surya,575,Gudang 3,Aman
+P006,Aplikasi Mobile,590,Gudang 1,Perlu Restock
+P007,Komponen Mekanik,605,Gudang 2,Aman
+P008,Layanan Audit,620,Gudang 3,Aman
+P009,Traktor,635,Gudang 1,Perlu Restock
+P010,Turbin Angin,650,Gudang 2,Aman
+P011,Website Design,665,Gudang 3,Aman
+P012,Mesin Penggiling,680,Gudang 1,Perlu Restock
+P013,Pelatihan Manajemen,695,Gudang 2,Aman
+P014,Pompa Air,710,Gudang 3,Aman
+P015,Generator Listrik,725,Gudang 1,Perlu Restock
+P016,Sistem IoT,740,Gudang 2,Aman
+P017,Alat Pemanas,755,Gudang 3,Aman
+P018,Jasa Riset Pasar,770,Gudang 1,Perlu Restock
+P019,Bibit Tanaman,785,Gudang 2,Aman
+P020,Lampu LED,800,Gudang 3,Aman

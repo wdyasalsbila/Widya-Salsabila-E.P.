@@ -1,0 +1,21 @@
+ID Produk,Nama Produk,Jumlah Produksi per Bulan,Biaya Produksi per Unit,Tanggal Mulai Produksi
+P001,Software ERP,210.00,10500.00,1/1/2024
+P002,Mesin Pemotong,220.00,11000.00,2/1/2024
+P003,Konsultasi Bisnis,230.00,11500.00,3/1/2024
+P004,Alat Pertanian,240.00,12000.00,4/1/2024
+P005,Panel Surya,250.00,12500.00,5/1/2024
+P006,Aplikasi Mobile,260.00,13000.00,6/1/2024
+P007,Komponen Mekanik,270.00,13500.00,7/1/2024
+P008,Layanan Audit,280.00,14000.00,8/1/2024
+P009,Traktor,290.00,14500.00,9/1/2024
+P010,Turbin Angin,300.00,15000.00,10/1/2024
+P011,Website Design,310.00,15500.00,11/1/2024
+P012,Mesin Penggiling,320.00,16000.00,12/1/2024
+P013,Pelatihan Manajemen,330.00,16500.00,1/1/2025
+P014,Pompa Air,340.00,17000.00,2/1/2025
+P015,Generator Listrik,350.00,17500.00,3/1/2025
+P016,Sistem IoT,360.00,18000.00,4/1/2025
+P017,Alat Pemanas,370.00,18500.00,5/1/2025
+P018,Jasa Riset Pasar,380.00,19000.00,6/1/2025
+P019,Bibit Tanaman,390.00,19500.00,7/1/2025
+P020,Lampu LED,400.00,20000.00,8/1/2025
